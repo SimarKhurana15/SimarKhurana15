@@ -4,10 +4,10 @@
 
 ### Data & AI Enthusiast | Database & SQL | Open Source Contributor
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://simarkhurana15.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://simar-khurana-portfolio.vercel.app/)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@khuranasimar15)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SimarKhurana15)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_simarrr15)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SimarKhurana15)
 
 </div>
 
@@ -15,13 +15,10 @@
 
 ## 🎯 About Me
 
-I'm a passionate **Data & AI enthusiast** with a strong foundation in computer science engineering. My expertise lies in integrating Data and AI to create seamless, intelligent solutions that drive decision-making and business value. I'm fascinated by how data and artificial intelligence can work together to simplify complex problems and unlock new possibilities.
-
-- 🎓 **B.E. in Computer Science Engineering** — Chandigarh University
-- 📊 **Focus Areas**: Data Analytics, AI/ML, SQL Databases, and Intelligent Systems
-- 🤖 **Passion**: Integrating Data & AI to build smarter solutions
-- 🚀 **Mission**: Building impactful projects while continuously learning and growing
-- 🤝 **Open to**: Collaborations, mentorship, and innovative projects
+- 🤖 **Integrating Data & AI** — Creating intelligent solutions that solve real problems
+- 📊 **Data-Driven Decision Making** — Transforming raw data into actionable insights
+- 🎓 **B.E. Computer Science Engineering (2026)** — Chandigarh University
+- 🚀 **Passionate Learner** — Constantly exploring cutting-edge technologies and best practices
 
 ---
 
@@ -138,11 +135,15 @@ I'm a passionate **Data & AI enthusiast** with a strong foundation in computer s
 
 ## 🤝 Let's Connect
 
-I'm always interested in collaborating on exciting projects, discussing data and AI innovations, or sharing knowledge. Feel free to reach out!
+I'm always interested in:
+- ✍️ **Writing** — Sharing insights and knowledge on Medium
+- 🌐 **Open Source Contributions** — Building tools for the community
+- 🤝 **Collaborations** — Working on impactful projects together
+- 💡 **Innovative Projects** — Pushing boundaries with cutting-edge solutions
 
 <div align="center">
 
-**[Portfolio](https://simarkhurana15.github.io) • [LinkedIn](https://linkedin.com/in/SimarKhurana15) • [Instagram](https://instagram.com/_simarrr15) • [GitHub](https://github.com/SimarKhurana15)**
+**[Portfolio](https://simar-khurana-portfolio.vercel.app/) • [Medium](https://medium.com/@khuranasimar15) • [LinkedIn](https://linkedin.com/in/SimarKhurana15) • [Instagram](https://instagram.com/_simarrr15)**
 
 </div>
 
