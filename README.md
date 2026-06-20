@@ -1,11 +1,12 @@
 👋 Hi, I'm Simar Khurana
 
-Data & AI Enthusiast | Database & SQL | Open Source Contributor
+ Data & AI Enthusiast | Database & SQL | Open Source Contributor
 
 🎓 B.E. in Computer Science Engineering from Chandigarh University
 📈 Skilled in SQL, Power BI, Excel, and AI - assisted workflows
 🚀 Bridging data, AI, and human decision-making to solve real-world problems
 💡 Finding patterns in data and turning them into smarter decisions with AI
+
 
 
 
@@ -21,8 +22,5 @@ Data & AI Enthusiast | Database & SQL | Open Source Contributor
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SimarKhurana15&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=SimarKhurana15&icon=3&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
