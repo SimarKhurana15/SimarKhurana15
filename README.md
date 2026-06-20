@@ -7,7 +7,12 @@
 🚀 Bridging data, AI, and human decision-making to solve real-world problems
 💡 Finding patterns in data and turning them into smarter decisions with AI
 
+💼 Work
+Data Analyst Trainee 
+Elevate Labs · Dec 2025 – Jan 2026
 
+Frontend Development Intern 
+Livwell Asia, Noida  · May 2024 – July 2024
 
 
 ## 🌐 Socials:
