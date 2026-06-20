@@ -1,11 +1,13 @@
-👋 Hi, I'm Simar Khurana
 
- Data & AI Enthusiast | Database & SQL | Open Source Contributor
+<h1 align="center">👋 Hi, I'm Simar Khurana</h1>
 
-🎓 B.E. in Computer Science Engineering from Chandigarh University
-📈 Skilled in SQL, Power BI, Excel, and AI - assisted workflows
-🚀 Bridging data, AI, and human decision-making to solve real-world problems
-💡 Finding patterns in data and turning them into smarter decisions with AI
+<h3 align="center">Data & AI Enthusiast | Database & SQL | Open Source Contributor</h3>
+
+* 🎓 B.E. in Computer Science Engineering from Chandigarh University
+* 📊 Exploring Data, AI, Analytics, and Intelligent Systems
+* 🗄️ Interested in Databases, SQL, and Data-Driven Decision Making
+* 🚀 Building projects and continuously learning
+
 
 💼 Work
 Data Analyst Trainee 
