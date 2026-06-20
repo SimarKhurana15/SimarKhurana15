@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Simar Khurana
 
-### Data & AI Enthusiast | Database & SQL | Open Source Contributor
+### Data Analytics & AI Enthusiast | Database & SQL | Open Source Contributor
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://simar-khurana-portfolio.vercel.app/)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@khuranasimar15)
