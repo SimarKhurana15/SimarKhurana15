@@ -15,20 +15,34 @@
 
 ## 🎯 About Me
 
--🤖 **Integrating Data & AI** — Creating intelligent solutions that solve real problems
--📊 **Data-Driven Decision Making** — Transforming raw data into actionable insights
--🎓 **B.E. Computer Science Engineering (2026)** — Chandigarh University
--🚀 **Passionate Learner** — Constantly exploring cutting-edge technologies and best practices
+<ul style="list-style:none; padding-left:0; margin:0;">
+  <li>🤖 <strong>Integrating Data & AI</strong> — Creating intelligent solutions that solve real problems</li>
+  <li>📊 <strong>Data-Driven Decision Making</strong> — Transforming raw data into actionable insights</li>
+  <li>🎓 <strong>B.E. Computer Science Engineering (2026)</strong> — Chandigarh University</li>
+  <li>🚀 <strong>Passionate Learner</strong> — Constantly exploring cutting-edge technologies and best practices</li>
+</ul>
 
 ---
 
 ## 💼 Professional Experience
 
-### **McKinsey Forward Learner Fellow** | McKinsey & Company   (*April 2026 – Present*)
+### **McKinsey Forward Learner Fellow** | McKinsey & Company ------- *April 2026 – Present*
+Contributing to cutting-edge data and AI initiatives
+Collaborating with leading consultants on transformative projects
+Developing data-driven solutions for complex business challenges
 
-### **Data Analyst Trainee** | Elevate Labs   (*December 2025 – January 2026*)
+### **Data Analyst Trainee** | Elevate Labs
+*December 2025 – January 2026*
+- Analyzed data trends and generated actionable insights
+- Worked with analytics tools, dashboards, and databases
+- Cleaned and validated data for KPI reporting and business intelligence
 
-### **Frontend Development Intern** | Livwell Asia, Noida    (*May 2024 – July 2024*)
+### **Frontend Development Intern** | Livwell Asia, Noida
+*May 2024 – July 2024*
+- Developed responsive user interfaces and interactive dashboards
+- Collaborated with cross-functional teams on data visualization projects
+- Created PowerPoint presentations and Word documentation for stakeholders
+- Managed project tracking using Excel and Agile methodologies
 
 ---
 
