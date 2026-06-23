@@ -15,20 +15,19 @@
 
 ## 🎯 About Me
 
-- 🤖 **Integrating Data & AI** — Creating intelligent solutions that solve real problems
-- 📊 **Data-Driven Decision Making** — Transforming raw data into actionable insights
-- 🎓 **B.E. Computer Science Engineering (2026)** — Chandigarh University
-- 🚀 **Passionate Learner** — Constantly exploring cutting-edge technologies and best practices
+🤖 **Integrating Data & AI** — Creating intelligent solutions that solve real problems
+📊 **Data-Driven Decision Making** — Transforming raw data into actionable insights
+🎓 **B.E. Computer Science Engineering (2026)** — Chandigarh University
+🚀 **Passionate Learner** — Constantly exploring cutting-edge technologies and best practices
 
 ---
 
 ## 💼 Professional Experience
 
-### **McKinsey Forward Learner Fellow** | McKinsey & Company
-*April 2026 – Present*
-- Contributing to cutting-edge data and AI initiatives
-- Collaborating with leading consultants on transformative projects
-- Developing data-driven solutions for complex business challenges
+### **McKinsey Forward Learner Fellow** | McKinsey & Company ------- *April 2026 – Present*
+Contributing to cutting-edge data and AI initiatives
+Collaborating with leading consultants on transformative projects
+Developing data-driven solutions for complex business challenges
 
 ### **Data Analyst Trainee** | Elevate Labs
 *December 2025 – January 2026*
