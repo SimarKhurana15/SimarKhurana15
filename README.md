@@ -24,14 +24,11 @@
 
 ## 💼 Professional Experience
 
-### **McKinsey Forward Learner Fellow** | McKinsey & Company 
-*April 2026 – Present*
+### **McKinsey Forward Learner Fellow** | McKinsey & Company   (*April 2026 – Present*)
 
-### **Data Analyst Trainee** | Elevate Labs
-*December 2025 – January 2026*
+### **Data Analyst Trainee** | Elevate Labs   (*December 2025 – January 2026*)
 
-### **Frontend Development Intern** | Livwell Asia, Noida
-*May 2024 – July 2024*
+### **Frontend Development Intern** | Livwell Asia, Noida    (*May 2024 – July 2024*)
 
 ---
 
